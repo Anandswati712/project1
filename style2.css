@@ -1,0 +1,122 @@
+#home{
+    margin: 20px;
+    display: flex;
+}
+#home .box{
+    border: 2px solid orange;
+    background-color: rgb(253, 181, 46);
+    border-radius: 4px;
+    padding: 34x;
+   
+    margin: 100px 25px;
+    height: 670px;
+    width: 500px;
+}
+#home .box .header .images{
+    display: flex;
+    
+}
+#home .box img{
+    height: 160px;
+    margin: auto;
+    display: block;
+}
+#home .boxB{
+    border: 2px solid orange;
+    background-color: rgb(253, 181, 46);
+    border-radius: 4px;
+    padding: 34x;
+    
+    margin: 0px 25px;
+    height: 650px;
+    width: 450px;
+}
+#home .boxB img{
+    height: 30%;
+    padding-top: 30px;
+     margin: auto;
+     display: block;
+}
+
+
+
+
+#home .box img{
+    height: 50px;
+    margin: 5px 5px;
+    position:relative;
+    margin: auto;
+    display: block;
+}
+#home .box .box2{
+    border: 2px solid white;
+    background-color: whitesmoke;
+    border-radius: 4px;
+    margin-left: 30px;
+    margin-right: 30px;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+#contact form{
+
+    justify-content: center;
+    align-items: center;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+#contact input{
+    font-size: 1.3rem;
+    
+    background: transparent;
+    background: url('email.png') no-repeat right;
+    background-size: 10%;
+    border: none;
+    border-bottom: 1px solid black;
+}
+#home .box .box2 .icon{
+    display: flex;
+   padding: 3px;
+}
+.click .button1{
+    font-size: 1.2rem;
+    background-color:orange;
+    border-radius: 18px;
+    padding: 6px 20px;
+    padding-left: 20%;
+    padding-right: 20%;
+    cursor: pointer;
+}
+.click .button2{
+    font-size: 1.2rem;
+    background-color:orange;
+    border-radius: 18px;
+    padding: 6px 20px;
+    margin-top: 20px;
+    padding-left: 10%;
+    padding-right: 10%;
+    cursor: pointer;
+}
+
+.center{
+    text-align: center;
+}
+
+/*second box*/
+.btn .btn1{
+    font-size: 1.2rem;
+    background-color: white;
+    border-radius: 15px;
+    padding-left: 13%;
+    padding-right: 13%;
+    cursor: pointer;
+}
+.btn .btn2{
+    font-size: 1.2rem;
+    background-color: white;
+    border-radius: 15px;
+    padding-left: 5%;
+    padding-right: 5%;
+    cursor: pointer;
+}
